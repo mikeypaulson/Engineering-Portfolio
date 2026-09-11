@@ -32,4 +32,4 @@ The project resulted in a fully functional vehicle electrical system and gave me
 
 ## Project Presentation
 
-[View Full Jeep CJ-7 Project Presentation](https://d.docs.live.net/57AFCF4CD3529CA5/Documents/Jeep%20CJ%207%20Project.pptx)
+[View Full Jeep CJ-7 Project Presentation](https://1drv.ms/p/c/57afcf4cd3529ca5/IQCA4CtowJN9RZXqpoz7VQqSAcaw9n-0s4eJlcPSP2z6W_w?e=XnsbzA)
