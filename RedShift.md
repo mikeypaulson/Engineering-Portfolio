@@ -19,7 +19,8 @@ The project began with a largely stripped chassis, no interior, and a previously
 - Identified parts requiring service or replacement before installation
 - Prepared the 240 mm flywheel, clutch system, and 71C 5-speed transmission for assembly
 
-![280Z engine bay](your-photo-name.jpg)
+![280Z engine](https://cdn.discordapp.com/attachments/1503831631797157949/1547786126377357382/image.jpg?ex=6aa4afa9&is=6aa35e29&hm=4367e08b7d9449bc68e3b86943dc20b40245e8215bba1352ec856a15d207bb52&.jpg)
+![280Z_trans](https://cdn.discordapp.com/attachments/1503831631797157949/1547786792328233010/image.jpg?ex=6aa4b047&is=6aa35ec7&hm=b7342d59bbfcc0df23496374a9e2de1ee9f98cd102673c0d0bc96259f08423f2&.jpg)
 
 ## Systems Integration
 The rebuild requires coordination between the engine, transmission, fuel, cooling, ignition, electrical, and engine-management systems.
@@ -31,7 +32,7 @@ The rebuild requires coordination between the engine, transmission, fuel, coolin
 - Wideband O2 system
 - Updated fuel and ignition systems
 
-![280Z engine bay](your-photo-name.jpg)
+![280Z Clutch](https://cdn.discordapp.com/attachments/1503831631797157949/1547786652095610941/image.jpg?ex=6aa4b026&is=6aa35ea6&hm=2f50343a6bdba4fd282c51633c63a757dd38b17deed807bed03a256c04aea497&.jpg)
 
 ## Troubleshooting & Engineering Decisions
 Examples of decisions made during the rebuild:
@@ -43,6 +44,8 @@ Examples of decisions made during the rebuild:
 
 ## Current Status
 The chassis and drivetrain have been disassembled and inspected, and major components are being prepared for installation. The next phase is drivetrain assembly, engine/transmission installation, fuel and electrical integration, and MegaSquirt setup.
+
+![280Z Engine Bay](https://cdn.discordapp.com/attachments/1503831631797157949/1547787297183895604/image.jpg?ex=6aa4b0c0&is=6aa35f40&hm=3b2a8dc238b2ab88b3b93df3279a92aaf76fd64266b2d47aab54a6afce19a0d2&.jpg)
 
 ## Skills Used
 Mechanical Troubleshooting · Powertrain Integration · Automotive Engineering · Electrical Systems · Engine Management · Fabrication · Component Testing
