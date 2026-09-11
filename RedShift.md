@@ -11,7 +11,7 @@ Rebuilding a stripped Datsun 280Z around an L28ET turbocharged engine and Nissan
 ## Initial Condition
 The project began with a largely stripped chassis, no interior, and a previously installed engine and transmission that were removed to begin the rebuild.
 
-![280Z engine bay](your-photo-name.jpg)
+![280Z engine bay](https://cdn.discordapp.com/attachments/1503831631797157949/1547785477711462441/image.jpg?ex=6aa4af0e&is=6aa35d8e&hm=fa7e201275c61d8d3e50bff70c6f80b8910a96f801a8b019b52ad02ccea9668f&.jpg)
 
 ## Drivetrain Preparation
 - Removed the existing engine and transmission
