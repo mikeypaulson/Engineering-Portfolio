@@ -19,7 +19,7 @@ The project began with a largely stripped chassis, no interior, and a previously
 - Identified parts requiring service or replacement before installation
 - Prepared the 240 mm flywheel, clutch system, and 71C 5-speed transmission for assembly
 
-[ENGINE / TRANSMISSION PHOTOS]
+![280Z engine bay](your-photo-name.jpg)
 
 ## Systems Integration
 The rebuild requires coordination between the engine, transmission, fuel, cooling, ignition, electrical, and engine-management systems.
@@ -31,7 +31,7 @@ The rebuild requires coordination between the engine, transmission, fuel, coolin
 - Wideband O2 system
 - Updated fuel and ignition systems
 
-[PHOTO OR SIMPLE DIAGRAM]
+![280Z engine bay](your-photo-name.jpg)
 
 ## Troubleshooting & Engineering Decisions
 Examples of decisions made during the rebuild:
